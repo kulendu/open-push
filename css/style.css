@@ -1,0 +1,12 @@
+.container-lg{
+    margin-top: 10%;
+    margin-bottom: 18px;
+    text-align: center;
+    color: #1b1919;
+}
+
+.container-sm{
+    margin-top: auto;
+    text-align: center;
+    color: #46464682;
+}
